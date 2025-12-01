@@ -1,16 +1,32 @@
-# React + Vite
+# Todo List App 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Todo List App** built with **React** and **Redux Toolkit** that allows you to:
 
-Currently, two official plugins are available:
+- Add tasks
+- Remove tasks
+- Mark tasks as complete or incomplete
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Add Todo**: Enter a task and add it to your list.  
+- **Delete Todo**: Remove a task from your list.  
+- **Toggle Completion**: Click on a task to mark it complete or incomplete.  
+- **Redux Toolkit**: State management using modern Redux practices.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshots
+
+![Todo App Screenshot](screenshot.png) <!-- Optional: Add a screenshot if you have -->
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/todo-app.git
+cd todo-app
