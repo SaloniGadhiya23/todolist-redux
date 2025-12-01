@@ -17,12 +17,6 @@ A simple **Todo List App** built with **React** and **Redux Toolkit** that allow
 
 ---
 
-## Screenshots
-
-![Todo App Screenshot](screenshot.png) <!-- Optional: Add a screenshot if you have -->
-
----
-
 ## Installation
 
 1. Clone the repository:
